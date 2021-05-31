@@ -1,0 +1,13 @@
+{
+  "name": "rescript-dynamicbuffer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rescript build"
+  },
+  "dependencies": {
+    "rescript": "^9.1.3",
+    "rescript-nodejs": "popstarfreas/rescript-nodejs"
+  }
+}

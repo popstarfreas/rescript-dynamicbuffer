@@ -1,0 +1,10 @@
+{
+  "name": "@popstarfreas/rescript-dynamicbuffer",
+  "namespace": false,
+  "sources": {
+    "dir": "src"
+  },
+  "bs-dependencies": [
+    "rescript-nodejs"
+  ]
+}
